@@ -9,7 +9,10 @@ def divide(num1, num2):
 def add(firstNum, secondNum):
     print( firstNum + secondNum)
 
+def subtract(firstNum, secondNum):
+    print(firstNum - secondNum)
+
 hello()
 divide(5,0)
 add(1,2)
-
+subtract(5,2)
